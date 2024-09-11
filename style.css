@@ -1,0 +1,11 @@
+.container{
+    /* background-color: yellowgreen; */
+    border: 1px solid black;
+}
+.row{
+    border: 1px solid yellow ;
+}
+ .col-1{
+    border: 1px solid blue;
+    background-color: aqua;
+ }
